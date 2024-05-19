@@ -124,7 +124,7 @@ section {
             </grid-head>
             <grid-item id="nLcBGoR">
         <item-head id="jZdtTBF">
-          <img id="tcVkboR" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="tcVkboR" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzE2MTQwNzk1fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="nhxQpvN">
           <item-title id="kYdwWtx" contenteditable="true">Lorem ipsum</item-title>
@@ -133,7 +133,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('nLcBGoR')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="EsDlTIL">
         <item-head id="PDRrrnX">
-          <img id="TeKGmKC" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="TeKGmKC" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNjE0MDc5NXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="cZFwDda">
           <item-title id="hjFSZdz" contenteditable="true">Lorem ipsum</item-title>
@@ -142,7 +142,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('EsDlTIL')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="xfnjRyB">
         <item-head id="rvfHixk">
-          <img id="rxrGmCR" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="rxrGmCR" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNjE0MDgxN3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="zSHkPpf">
           <item-title id="yqVPjmu" contenteditable="true">Lorem ipsum</item-title>
@@ -151,7 +151,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('xfnjRyB')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="mehnYxZ">
         <item-head id="mAmUxUO">
-          <img id="fqoYiTH" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="fqoYiTH" src="https://images.unsplash.com/photo-1520700008388-af1981de9835?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0MXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNjE0MDgzNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="PPYELgJ">
           <item-title id="mxBFokv" contenteditable="true">Lorem ipsum</item-title>
@@ -160,7 +160,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('mehnYxZ')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="EJhbZli">
         <item-head id="NNKHRrF">
-          <img id="EnYCwCk" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="EnYCwCk" src="https://images.unsplash.com/photo-1669144457338-e72d55e373c7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0OXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNjE0MDgzNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="bMLphga">
           <item-title id="rfnVPFV" contenteditable="true">Lorem ipsum</item-title>
@@ -280,7 +280,7 @@ section {
             </grid-head>
             <grid-item id="maOfQjJ">
         <item-head id="mSOwBNh">
-          <img id="MakfCOc" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="MakfCOc" src="https://images.unsplash.com/photo-1551499779-ee50f1aa4d25?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxwYXN0ZWwlMjB8ZW58MHwwfHx8MTcxNjE0MDg2MHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="QYYKrZg">
           <item-title id="TLqberk" contenteditable="true">Lorem ipsum</item-title>
@@ -289,7 +289,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('maOfQjJ')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="PMrXKPZ">
         <item-head id="FjaMCIv">
-          <img id="eHHOotH" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="eHHOotH" src="https://images.unsplash.com/photo-1551500226-b50b653e33e8?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw4fHxwYXN0ZWwlMjB8ZW58MHwwfHx8MTcxNjE0MDg2MHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="YrlLyOm">
           <item-title id="SUrqVvG" contenteditable="true">Lorem ipsum</item-title>
@@ -298,7 +298,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('PMrXKPZ')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="koEDHKH">
         <item-head id="mRDMQlj">
-          <img id="mEEKYvb" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="mEEKYvb" src="https://images.unsplash.com/photo-1579547621706-1a9c79d5c9f1?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3M3x8cGFzdGVsJTIwfGVufDB8MHx8fDE3MTYxNDA4OTV8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="MQtnaaj">
           <item-title id="IlamULF" contenteditable="true">Lorem ipsum</item-title>
@@ -307,7 +307,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('koEDHKH')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="cgrIsxz">
         <item-head id="pFPomJW">
-          <img id="rqwZxkU" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="rqwZxkU" src="https://images.unsplash.com/photo-1529034502960-57f42a966080?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMXx8cGFzdGVsJTIwfGVufDB8MHx8fDE3MTYxNDA4NjB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="rhBFOsd">
           <item-title id="rVKFiMo" contenteditable="true">Lorem ipsum</item-title>
@@ -316,7 +316,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('cgrIsxz')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="FsIsAws">
         <item-head id="QzDDQBp">
-          <img id="sDzwvUD" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="sDzwvUD" src="https://images.unsplash.com/photo-1588097237448-45f7aadebae1?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8cGFzdGVsJTIwfGVufDB8MHx8fDE3MTYxNDA4NjB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="arJDItl">
           <item-title id="yEKQRGn" contenteditable="true">Lorem ipsum</item-title>
