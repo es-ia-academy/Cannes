@@ -167,15 +167,6 @@ section {
           <item-desc id="kOPosBl" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('EJhbZli')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="mypKldJ">
-        <item-head id="WzjBSff">
-          <img id="AwjVZOq" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="cCqlNcO">
-          <item-title id="wzQJFkC" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="YFInVHD" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('mypKldJ')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="TegFKqu" class="no-export grid-add-item" onclick="itemNew('PerlWFO','TegFKqu')">
               <img id="server-addItem" src="../global/file/add-white.svg">
             </button>
@@ -332,15 +323,6 @@ section {
           <item-desc id="rQQZptZ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('FsIsAws')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="MRuTAvL">
-        <item-head id="bcjlqyr">
-          <img id="FFcocwY" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="IgWuuJV">
-          <item-title id="PsYZquG" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="zSNiOiq" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('MRuTAvL')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="XpwpjUL" class="no-export grid-add-item" onclick="itemNew('QehQHIu','XpwpjUL')">
               <img id="server-addItem" src="../global/file/add-black.svg">
             </button>
