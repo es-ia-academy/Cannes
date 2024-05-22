@@ -111,11 +111,394 @@ section {
       padding-bottom:35px;
       grid-template-columns: 1fr 1fr 1fr;
   }
-  }</style><!--HTML--><div id="BgiakRG" data-type="html"><grid-container id="pjCvIPi"><grid-bg id="jJxHCwM"><bg-color id="xgrtcsz"></bg-color></grid-bg><grid-box id="zMhpAuX"><grid-head id="icVOKAj"><grid-title id="paeUjZm" contenteditable="true">Lo mejor de l'IA</grid-title><grid-desc id="JthIZQc" contenteditable="true">pour vous former en 2024</grid-desc></grid-head><grid-item id="jKDmwkL"><item-head id="HjXTDPN"><img id="KorctOU" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/midjourney_100x84.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="vloYpOi"><item-desc id="HLbxkGX" contenteditable="true">Midjourney</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('jKDmwkL')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="CyAyrXa"><item-head id="DSmHHoq"><img id="zGizdKO" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/huggingface_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="rdTVVzO"><item-desc id="wcKGUzC" contenteditable="true">Hugginface</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('CyAyrXa')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="EAXMQYL"><item-head id="nVtawlw"><img id="uLyZkzM" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/stablediffusion.webp" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="DlXjQEM"><item-desc id="yReSupl" contenteditable="true">Stable D.</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('EAXMQYL')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="IGzScAt"><item-head id="MrZvbtv"><img id="hNRBnZB" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/mistral_100x64.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="rHimXVq"><item-desc id="NJFEWUy" contenteditable="true">Mistral</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('IGzScAt')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="XQcrVtC"><item-head id="rkQNJLH"><img id="YAhpAeO" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/gemini_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="gXCJldG"><item-desc id="rfgStHJ" contenteditable="true">Google AI</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('XQcrVtC')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="YvhGTXu"><item-head id="mtamWtS"><img id="uYpwUAV" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/claude_100x88.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="xbIJXFl"><item-desc id="VVZBfzc" contenteditable="true">Claude AI</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('YvhGTXu')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="pnbdOWo"><item-head id="THjYPPb"><img id="DqJIuzP" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/runway_100x100.jpeg" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="dVcRqkR"><item-desc id="doHmtQd" contenteditable="true">Runway</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('pnbdOWo')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="LDRvFTQ"><item-head id="CAauAUW"><img id="eoiurUa" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/elevenlabs.webp" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="PLCvWbk"><item-desc id="aeITXqD" contenteditable="true">Elevenlabs</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('LDRvFTQ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="mRZXeCv">
-        <item-head id="USZwmDO">
-          <img id="lnzkgmG" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/openai_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy">
+  }</style><!--HTML--><div id="BgiakRG" data-type="html"><grid-container id="pjCvIPi"><grid-bg id="jJxHCwM"><bg-color id="xgrtcsz"></bg-color></grid-bg><grid-box id="zMhpAuX"><grid-head id="icVOKAj"><grid-title id="paeUjZm" contenteditable="true">Lo mejor de l'IA</grid-title><grid-desc id="JthIZQc" contenteditable="true">pour vous former en 2024</grid-desc></grid-head><grid-item id="jKDmwkL"><item-head id="HjXTDPN"><img id="KorctOU" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/midjourney_100x84.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="vloYpOi"><item-desc id="HLbxkGX" contenteditable="true">Midjourney</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('jKDmwkL')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="CyAyrXa"><item-head id="DSmHHoq"><img id="zGizdKO" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/huggingface_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="rdTVVzO"><item-desc id="wcKGUzC" contenteditable="true">Hugginface</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('CyAyrXa')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="EAXMQYL"><item-head id="nVtawlw"><img id="uLyZkzM" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/stablediffusion.webp" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="DlXjQEM"><item-desc id="yReSupl" contenteditable="true">Stable D.</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('EAXMQYL')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="IGzScAt"><item-head id="MrZvbtv"><img id="hNRBnZB" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/mistral_100x64.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="rHimXVq"><item-desc id="NJFEWUy" contenteditable="true">Mistral</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('IGzScAt')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="XQcrVtC"><item-head id="rkQNJLH"><img id="YAhpAeO" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/gemini_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="gXCJldG"><item-desc id="rfgStHJ" contenteditable="true">Google AI</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('XQcrVtC')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="YvhGTXu"><item-head id="mtamWtS"><img id="uYpwUAV" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/claude_100x88.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="xbIJXFl"><item-desc id="VVZBfzc" contenteditable="true">Claude AI</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('YvhGTXu')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="pnbdOWo"><item-head id="THjYPPb"><img id="DqJIuzP" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/runway_100x100.jpeg" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="dVcRqkR"><item-desc id="doHmtQd" contenteditable="true">Runway</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('pnbdOWo')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="LDRvFTQ"><item-head id="CAauAUW"><img id="eoiurUa" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/elevenlabs.webp" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="PLCvWbk"><item-desc id="aeITXqD" contenteditable="true">Elevenlabs</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('LDRvFTQ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="mRZXeCv"><item-head id="USZwmDO"><img id="lnzkgmG" src="https://raw.githubusercontent.com/es-ia-academy/Cannes/main/media/images/openai_100x100.png" height="100" width="100" data-type="image-fg" loading="lazy"></item-head><item-body id="dDFkcuM"><item-desc id="LHYiAgg" contenteditable="true">OpenAI</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('mRZXeCv')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="nJDCkfp" class="no-export grid-add-item" onclick="items100x100('zMhpAuX','nJDCkfp')">+</button></grid-box></grid-container></div><!--JS--><script id="SrcFtAg" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section>
+  <section id="nUByKWd" data-type="section">
+      
+      <!--CSS-->
+      <style id="CJorUsW" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#kBOYLng {
+    position: relative;
+  }
+  grid-box#YKYqZHG{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 100px));
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 3%;
+    place-content: center;
+  }
+  bg-color#JFGITxX{
+    background:black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#YKYqZHG grid-item {
+    display:grid;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    overflow: hidden;
+    place-content: start center;
+  }
+  grid-box#YKYqZHG item-body {
+    padding: 0px;
+    display: grid;
+    gap: 10px;
+  }
+
+  grid-box#YKYqZHG grid-title {
+    font-size:1.5rem;
+    color:white;
+  }
+
+  grid-box#YKYqZHG grid-desc {
+    font-size: 12px;
+    color: #929292;
+  }
+
+  grid-box#YKYqZHG item-title {
+    color: white;
+  }
+
+  grid-box#YKYqZHG item-desc {
+    display: grid;
+    font-size: 12px;
+    color: #929292;
+    text-align:center;
+  }
+  grid-head#TxbMqfz{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
+  }
+  grid-box#YKYqZHG item-head img{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    object-fit: cover;
+    padding: 5px;
+    border-radius: 50%;
+    border: 3px solid #ffffff33;
+  }
+  </style>
+      <style id="VVODIyK" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#YKYqZHG {
+    display: grid;
+  }
+  }</style>
+      <style id="MYgYxQu" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#TxbMqfz{
+    grid-column: 1 / -1;
+    display: grid;
+    place-content:center;
+    text-align:center;
+    padding:35px;
+  }
+  grid-box#YKYqZHG {
+      display: grid;
+      gap:5px;
+      padding-bottom:35px;
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+  }</style>
+      
+      <!--HTML-->
+      <div id="zaqosfe" data-type="html">
+        <grid-container id="slVJguI">
+          <grid-bg id="FJILjDD">
+            <bg-color id="JFGITxX"></bg-color>
+          </grid-bg>
+          <grid-box id="YKYqZHG">
+            <grid-head id="TxbMqfz">
+              <grid-title id="oOfvUop" contenteditable="true">Faces</grid-title>
+              <grid-desc id="ZtiOwoV" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+            </grid-head>
+            <grid-item id="DkUKUSg">
+        <item-head id="wrquWDq">
+          <img id="FiiIFoy" src="https://images.unsplash.com/photo-1582233479366-6d38bc390a08?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxfHxmYWNlc3xlbnwwfDB8fHwxNzE2Mzg0NTcwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="dDFkcuM">
-          <item-desc id="LHYiAgg" contenteditable="true">OpenAI</item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('mRZXeCv')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><button id="nJDCkfp" class="no-export grid-add-item" onclick="items100x100('zMhpAuX','nJDCkfp')">+</button></grid-box></grid-container></div><!--JS--><script id="SrcFtAg" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section></grid-body>
+        <item-body id="AwYkgGu">
+          <item-desc id="krtyEJe" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('DkUKUSg')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="NgNNAdH">
+        <item-head id="zQCjITb">
+          <img id="MWOmxRg" src="https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxmYWNlc3xlbnwwfDB8fHwxNzE2Mzg0NTcwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="VUqopyB">
+          <item-desc id="jVPhraE" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('NgNNAdH')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="XOOcPyh">
+        <item-head id="OsAAbBo">
+          <img id="vhVeVvx" src="https://images.unsplash.com/photo-1611342799915-5dd9f1665d04?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxmYWNlc3xlbnwwfDB8fHwxNzE2Mzg0NTcwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="dYxEXjc">
+          <item-desc id="npEUfKZ" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('XOOcPyh')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="ViYtblY">
+        <item-head id="QPgsCpj">
+          <img id="mjlwFbL" src="https://images.unsplash.com/photo-1503467913725-8484b65b0715?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxmYWNlc3xlbnwwfDB8fHwxNzE2Mzg0NTcwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="HtLCyvw">
+          <item-desc id="fkpbuWu" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('ViYtblY')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="XVHvCER">
+        <item-head id="pFNencm">
+          <img id="WHsgJPm" src="https://images.unsplash.com/photo-1577632585381-c50d2d100116?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxmYWNlc3xlbnwwfDB8fHwxNzE2Mzg0NTcwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="BTDkQyh">
+          <item-desc id="tdnsUzD" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('XVHvCER')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="bALJJUe">
+        <item-head id="ZWMIIRM">
+          <img id="wkSVbtD" src="https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDU3MHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="ChWMeWF">
+          <item-desc id="jteeQtf" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('bALJJUe')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="ukLbUQq">
+        <item-head id="pMJzDtj">
+          <img id="GOXfztA" src="https://images.unsplash.com/photo-1580172275379-bf8077ea5b5f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyN3x8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDcxNHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="TxZmwNa">
+          <item-desc id="xswyjpF" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('ukLbUQq')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="pZatiyl">
+        <item-head id="YybhuVR">
+          <img id="CVTEnHs" src="https://images.unsplash.com/photo-1512503868941-bd9fa9c6b569?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0OXx8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDczNnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="ARRvTkC">
+          <item-desc id="MDgnkML" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('pZatiyl')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="RvtkPvc">
+        <item-head id="CtnXgnv">
+          <img id="vpmQcwF" src="https://images.unsplash.com/photo-1558482240-4e3c42448028?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDczNnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="cNErxiU">
+          <item-desc id="Xdezids" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('RvtkPvc')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="HIpjKdg">
+        <item-head id="lCPbQIp">
+          <img id="LcEgDpe" src="https://images.unsplash.com/photo-1545254644-a60835b8d36e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1MHx8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDczNnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="RFipFCJ">
+          <item-desc id="GYqRzLK" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('HIpjKdg')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="iRjvilq" class="no-export grid-add-item" onclick="items100x100('YKYqZHG','iRjvilq')">+</button>
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="YGbkbZZ" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  
+  <section id="pcrUBhv" data-type="section">
+      
+      <!--CSS-->
+      <style id="rIEYrlw" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#sHoTbog {
+    position: relative;
+  }
+  grid-box#KdiVaqH{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 100px));
+    grid-auto-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 3%;
+    place-content: center;
+  }
+  bg-color#asqidRl{
+    background:black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#KdiVaqH grid-item {
+    display:grid;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    border-radius: 10px;
+    overflow: hidden;
+    place-content: start center;
+  }
+  grid-box#KdiVaqH item-body {
+    padding: 0px;
+    display: grid;
+    gap: 10px;
+  }
+
+  grid-box#KdiVaqH grid-title {
+    font-size:1.5rem;
+    color:white;
+  }
+
+  grid-box#KdiVaqH grid-desc {
+    font-size: 12px;
+    color: #929292;
+  }
+
+  grid-box#KdiVaqH item-title {
+    color: white;
+  }
+
+  grid-box#KdiVaqH item-desc {
+    display: grid;
+    font-size: 12px;
+    color: #929292;
+    text-align:center;
+  }
+  grid-head#xYdeEXE{
+    grid-column: 1 / -1;
+    display: grid;
+    margin-left: 15px;
+  }
+  grid-box#KdiVaqH item-head img{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    object-fit: cover;
+    padding: 5px;
+    border-radius: 50%;
+    border: 3px solid #ffffff33;
+  }
+  </style>
+      <style id="dkhaXFi" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#KdiVaqH {
+    display: grid;
+  }
+  }</style>
+      <style id="Wjiprvn" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#xYdeEXE{
+    grid-column: 1 / -1;
+    display: grid;
+    place-content:center;
+    text-align:center;
+    padding:35px;
+  }
+  grid-box#KdiVaqH {
+      display: grid;
+      gap:5px;
+      padding-bottom:35px;
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+  }</style>
+      
+      <!--HTML-->
+      <div id="WKVpYJy" data-type="html">
+        <grid-container id="zExKOhD">
+          <grid-bg id="YZdhijw">
+            <bg-color id="asqidRl"></bg-color>
+          </grid-bg>
+          <grid-box id="KdiVaqH">
+            <grid-head id="xYdeEXE">
+              <grid-title id="UgMbqwW" contenteditable="true">Lines</grid-title>
+              <grid-desc id="QLsuzbK" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+            </grid-head>
+            <grid-item id="CfVRKWE">
+        <item-head id="FpYnyeP">
+          <img id="xJUnBQN" src="https://images.unsplash.com/photo-1485855691614-f7547af0c4c5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxsaW5lc3xlbnwwfDB8fHwxNzE2MzMwMTEwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="CecDGTC">
+          <item-desc id="SQdwgcf" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('CfVRKWE')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="KsTLklS">
+        <item-head id="QGFbVSX">
+          <img id="zLyCRwt" src="https://images.unsplash.com/photo-1518672703296-e3022657f7b9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxsaW5lc3xlbnwwfDB8fHwxNzE2MzMwMTEwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="GyZPpCK">
+          <item-desc id="qannGav" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('KsTLklS')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="ihEkdVH">
+        <item-head id="EZPmEak">
+          <img id="KBKEBrY" src="https://images.unsplash.com/photo-1484734278752-212d8c88a568?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxsaW5lc3xlbnwwfDB8fHwxNzE2MzMwMTEwfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="gdZPfhH">
+          <item-desc id="lfLdJeM" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('ihEkdVH')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="EaUbaIm">
+        <item-head id="caTuduA">
+          <img id="vZdXKcy" src="https://images.unsplash.com/photo-1510416096143-b3f355567e3d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8bGluZXN8ZW58MHwwfHx8MTcxNjMzMDExMHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="qMcRjXP">
+          <item-desc id="NdqZBCH" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('EaUbaIm')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="WlKaPXm">
+        <item-head id="VxJDvUR">
+          <img id="rKGNWXZ" src="https://images.unsplash.com/photo-1529237669147-6cd42f0faa9f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2OXx8bGluZXN8ZW58MHwwfHx8MTcxNjM4NDgwNHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="hdDhAFF">
+          <item-desc id="GTLCNxf" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('WlKaPXm')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="DjKCqci">
+        <item-head id="kXqdOOO">
+          <img id="bpfXOER" src="https://images.unsplash.com/photo-1531662633876-d1e339cceefa?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2N3x8bGluZXN8ZW58MHwwfHx8MTcxNjM4NDgwNHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="vOXrCSe">
+          <item-desc id="ZIcDjhX" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('DjKCqci')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="lcDPDTZ">
+        <item-head id="EqdRkYC">
+          <img id="zpLzQMN" src="https://images.unsplash.com/photo-1515534272471-e982c9dbf51f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw4NXx8bGluZXN8ZW58MHwwfHx8MTcxNjM4NDgyM3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="QYNpVcF">
+          <item-desc id="JRMIhXY" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('lcDPDTZ')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="kVPomYH">
+        <item-head id="oNhkgBn">
+          <img id="ULfzdjv" src="https://images.unsplash.com/photo-1565696662330-ba158d5a68ee?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMzN8fGxpbmVzfGVufDB8MHx8fDE3MTYzODQ4NDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="tQsLEKd">
+          <item-desc id="fevwkqo" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('kVPomYH')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="dqZyBzS">
+        <item-head id="xifuTAK">
+          <img id="jgYTecb" src="https://images.unsplash.com/photo-1532560642858-0a7db1577389?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMzd8fGxpbmVzfGVufDB8MHx8fDE3MTYzODQ4NDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="VxFKatF">
+          <item-desc id="zlKoZAb" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('dqZyBzS')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><grid-item id="RPQCTIJ">
+        <item-head id="qxaCwUw">
+          <img id="rNFLaxQ" src="https://images.unsplash.com/photo-1515080253560-d2dfe687feff?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMzR8fGxpbmVzfGVufDB8MHx8fDE3MTYzODQ4NDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="cnDohnG">
+          <item-desc id="fwnvKmL" contenteditable="true">Lorem
+        </item-desc></item-body>
+        <button class="no-export grid-delete-item" onclick="deleteItem('RPQCTIJ')"><img src="./assets/svg/icons/delete.svg"></button>
+      </grid-item><button id="TeTqsAL" class="no-export grid-add-item" onclick="items100x100('KdiVaqH','TeTqsAL')">+</button>
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="CUpdtdB" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  </grid-body>
