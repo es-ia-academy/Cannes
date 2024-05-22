@@ -127,8 +127,8 @@ section {
           </grid-bg>
           <grid-box id="oeSYLwV">
             <grid-head id="yrNCQwt">
-              <grid-title id="zTFhKnx" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="yxamMgL" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+              <grid-title id="zTFhKnx" contenteditable="true">Lo meilleur de l'IA</grid-title>
+              <grid-desc id="yxamMgL" contenteditable="true">pour vous former</grid-desc>
             </grid-head>
             <grid-item id="kbedDtK">
         <item-head id="aGQQNyD">
@@ -194,30 +194,6 @@ section {
           <item-desc id="cccuCEM" contenteditable="true">Lorem
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('EtniIUb')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="bcCRMyD">
-        <item-head id="nlPTAIr">
-          <img id="qAYNNnE" src="../global/file/empty.svg" height="100" width="100" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="KFnrYSa">
-          <item-desc id="PMwQTyv" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('bcCRMyD')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="CaOoRZu">
-        <item-head id="dvjaWEM">
-          <img id="WRXlwHU" src="../global/file/empty.svg" height="100" width="100" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="psNHYiJ">
-          <item-desc id="lObRFWW" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('CaOoRZu')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="AYqTrgO">
-        <item-head id="SwVKprp">
-          <img id="GdAeqHA" src="../global/file/empty.svg" height="100" width="100" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="kJlMDSy">
-          <item-desc id="fqDIAvq" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('AYqTrgO')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="xEEyrne" class="no-export grid-add-item" onclick="items100x100('oeSYLwV','xEEyrne')">+</button>
           </grid-box>
         </grid-container>
