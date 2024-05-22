@@ -11,10 +11,10 @@ grid-page {
 grid-body {
   display: grid;
   min-height: 100vh;
-  padding: 3%;
+  padding: 35px;
   max-width: 1350px;
   margin: 0 auto;
-  gap: 3%;
+  gap: 35px;
   align-content: start;
 }
 
