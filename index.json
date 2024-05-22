@@ -288,14 +288,6 @@ section {
           <item-desc id="Xdezids" contenteditable="true">Lorem
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('RvtkPvc')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="HIpjKdg">
-        <item-head id="lCPbQIp">
-          <img id="LcEgDpe" src="https://images.unsplash.com/photo-1545254644-a60835b8d36e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1MHx8ZmFjZXN8ZW58MHwwfHx8MTcxNjM4NDczNnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="RFipFCJ">
-          <item-desc id="GYqRzLK" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('HIpjKdg')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="iRjvilq" class="no-export grid-add-item" onclick="items100x100('YKYqZHG','iRjvilq')">+</button>
           </grid-box>
         </grid-container>
@@ -459,14 +451,6 @@ section {
           <item-desc id="ZIcDjhX" contenteditable="true">Lorem
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('DjKCqci')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="lcDPDTZ">
-        <item-head id="EqdRkYC">
-          <img id="zpLzQMN" src="https://images.unsplash.com/photo-1515534272471-e982c9dbf51f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw4NXx8bGluZXN8ZW58MHwwfHx8MTcxNjM4NDgyM3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="QYNpVcF">
-          <item-desc id="JRMIhXY" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('lcDPDTZ')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="kVPomYH">
         <item-head id="oNhkgBn">
           <img id="ULfzdjv" src="https://images.unsplash.com/photo-1565696662330-ba158d5a68ee?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMzN8fGxpbmVzfGVufDB8MHx8fDE3MTYzODQ4NDd8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="100" width="100" data-type="image-fg" loading="lazy">
