@@ -36,4 +36,186 @@ section {
     align-content: start;
   }
 }
-</style><grid-body id="grid-body"></grid-body>
+</style><grid-body id="grid-body">
+  <section id="WJEpIFH" data-type="section">
+      
+      <!--CSS-->
+      <style id="CFxNTZz" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#Udnxgiw {
+    position: relative;
+  }
+
+  bg-color#pUmEdem{
+    background:black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#RkBRheB{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    width: 100%;
+    height: 100%;
+    place-content: center;
+  }
+  grid-item#CAqffVF{
+    display: grid;
+    place-content: center;
+    padding: 15%;
+    gap: 15px;
+    height: auto;
+    min-height: 50vh;
+  }
+
+  img#jnfVlmK{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+  }
+  h2#ApERymw{
+    color:white;
+    font-size:clamp(24px,3vw,34px);
+    line-height: 1;
+  }
+  p#PmoPHhp{
+    color:#ffffff9e;
+    font-size:14px;
+  }
+  a#IbNNwPz{
+    border: 3px solid #ffffff9e;
+    padding: 0 15px;
+    color: white;
+    font-size: 14px;
+    border-radius: 10px;
+    text-underline-position: under;
+    height: 50px;
+    width: fit-content;
+    display: grid;
+    place-content: center;
+  }
+  
+  </style>
+      <style id="XcbXWbe" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+      <style id="EbYSzGM" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){}</style>
+      
+      <!--HTML-->
+      <div id="JjMbraW" data-type="html">
+        <grid-container id="IyHTtBP">
+          <grid-bg id="LROkWQv">
+            <bg-color id="pUmEdem"></bg-color>
+          </grid-bg>
+          <grid-box id="RkBRheB">
+            
+          <grid-item id="CAqffVF">
+              <h2 id="ApERymw" contenteditable="true">Lorem ipsum</h2>
+              <p id="PmoPHhp" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices vitae auctor eu augue. Donec ac odio tempor orci dapibus ultrices in iaculis nunc.</p>
+              <a id="IbNNwPz" href="#" contenteditable="true">Lorem ipsum</a>
+          </grid-item>
+
+          <grid-item id="HVfUHBS">
+              <img id="jnfVlmK" src="https://source.unsplash.com/random/1000×500/?fruit" data-type="image-fg" loading="lazy">
+          </grid-item>
+
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="xiAotDD" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  
+  <section id="fqgkZDh" data-type="section">
+      
+      <!--CSS-->
+      <style id="QCccdRm" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#afvRcJC {
+    position: relative;
+  }
+
+  bg-color#pFRUmZv{
+    background:black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  grid-box#FWSFOKG{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    width: 100%;
+    height: 100%;
+    place-content: center;
+  }
+  grid-item#KUJGxoW{
+    display: grid;
+    place-content: center;
+    padding: 15%;
+    gap: 15px;
+    height: auto;
+    min-height: 50vh;
+  }
+
+  img#WGHSClu{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+  }
+  h2#adgxctk{
+    color:white;
+    font-size:clamp(24px,3vw,34px);
+    line-height: 1;
+  }
+  p#iuQxUUn{
+    color:#ffffff9e;
+    font-size:14px;
+  }
+  a#XwVrsiD{
+    border: 3px solid #ffffff9e;
+    padding: 0 15px;
+    color: white;
+    font-size: 14px;
+    border-radius: 10px;
+    text-underline-position: under;
+    height: 50px;
+    width: fit-content;
+    display: grid;
+    place-content: center;
+  }
+  
+  </style>
+      <style id="IrNMqhA" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+      <style id="HtqpRSC" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){}</style>
+      
+      <!--HTML-->
+      <div id="HVhzpld" data-type="html">
+        <grid-container id="DcZXRqh">
+          <grid-bg id="yZemerx">
+            <bg-color id="pFRUmZv"></bg-color>
+          </grid-bg>
+          <grid-box id="FWSFOKG">
+            
+          <grid-item id="KUJGxoW">
+              <h2 id="adgxctk" contenteditable="true">Lorem ipsum</h2>
+              <p id="iuQxUUn" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices vitae auctor eu augue. Donec ac odio tempor orci dapibus ultrices in iaculis nunc.</p>
+              <a id="XwVrsiD" href="#" contenteditable="true">Lorem ipsum</a>
+          </grid-item>
+
+          <grid-item id="AKenrzS">
+              <img id="WGHSClu" src="https://source.unsplash.com/random/1000×500/?fruit" data-type="image-fg" loading="lazy">
+          </grid-item>
+
+          </grid-box>
+        </grid-container>
+      </div>
+      
+      <!--JS-->
+      <script id="XlOjeIz" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  </grid-body>
