@@ -281,14 +281,6 @@ section {
           <item-desc id="VnKmlnO" contenteditable="true">Lorem
         </item-desc></item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('ogdonsf')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="KaPUERt">
-        <item-head id="mNPZzDR">
-          <img id="bPpyoxK" src="../global/file/empty.svg" height="80px" width="80px" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="saDyMxc">
-          <item-desc id="jTNTYVh" contenteditable="true">Lorem
-        </item-desc></item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('KaPUERt')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="yLOHsyy" class="no-export grid-add-item" onclick="itemsCercle('XaqmNnN','yLOHsyy', '80px', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
@@ -434,15 +426,6 @@ section {
           <item-desc id="DNkuukl" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
         <button class="no-export grid-delete-item" onclick="deleteItem('bfGJXIS')"><img src="./assets/svg/icons/delete.svg"></button>
-      </grid-item><grid-item id="QWmjIiP">
-        <item-head id="IWhhReY">
-          <img id="lQNuLaj" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="vyCTzcd">
-          <item-title id="SzMRtCZ" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="tiZjNiw" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('QWmjIiP')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><button id="whPlyoO" class="no-export grid-add-item" onclick="items200x200('szGXFKu','whPlyoO', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
