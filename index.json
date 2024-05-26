@@ -141,7 +141,7 @@ section {
         <grid-bg id="ixPFhmz" data-type="grid-bg">
           <!-- bg-color -->
           <div id="DdxhlJm" data-type="bg-color" class="div-visible">
-            <div id="WRwVqOD" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 0);"></div>
+            <div id="WRwVqOD" data-type="solid-color" class="div-visible" style="background: rgb(251, 0, 0);"></div>
             <div id="BxRNbrd" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
             <div id="EtSowcp" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
           </div> 
