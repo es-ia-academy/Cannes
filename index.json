@@ -39,100 +39,99 @@ section {
 </style><grid-body id="grid-body"><section id="wrqLZvt" data-type="section">
       
       <!--CSS-->
-      <style id="lxTwGkZ" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#IWCWKfP {
-    position: relative;
-  }
+      <style id="lxTwGkZ" type="text/css" data-type="css" data-size="laptop" data-content="section">grid-container#IWCWKfP {
+  position: relative;
+}
 
-  grid-bg#uubJRko {
-    position: absolute;
-    height:100%;
-    width:100%;
-    z-index:-1;
-    display:block;
-  }
+grid-bg#uubJRko {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+}
 
-  div#HZxCWsK{
-    height:100%;
-    width:100%;
-    
-  }
-  div#FBwoXvL{
-    height:100%;
-    width:100%;
-    
-  }
+div#HZxCWsK {
+  height: 100%;
+  width: 100%;
+}
 
-  div#HZmeWlH{
-    height:100%;
-    width:100%;
-    
-  }
+div#FBwoXvL {
+  height: 100%;
+  width: 100%;
+}
 
-  img#xVZfQFR {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
+div#HZmeWlH {
+  height: 100%;
+  width: 100%;
+}
 
-  video#XIJekhk {
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  
-  grid-box#CFWqNbV{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: auto;
-    width: 100%;
-    height: 100%;
-    place-content: center;
-  }
-  grid-item#KVdrnhx{
-    display: grid;
-    place-content: center;
-    padding: 15%;
-    gap: 15px;
-    height: auto;
-    min-height: 50vh;
-  }
+img#xVZfQFR {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  img#vUQWsBb{
-    object-fit:cover;
-    height:100%;
-    width:100%;
-  }
-  h2#LipvNin{
-    color:white;
-    font-size:clamp(24px,3vw,34px);
-    line-height: 1;
-  }
-  p#DbisMca{
-    color:white;
-    font-size:14px;
-  }
+video#XIJekhk {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
 
-  #VCeLfhv{
-    display: flex;
-    gap: 10px;
-    flex-flow: wrap;
-  }
+grid-box#CFWqNbV {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: auto;
+  width: 100%;
+  height: 70vh;
+  place-content: center;
+}
 
-  #VCeLfhv a{
-    border: 3px solid white;
-    padding: 0 15px;
-    color: white;
-    font-size: 14px;
-    border-radius: 10px;
-    text-underline-position: under;
-    height: 50px;
-    width: fit-content;
-    display: grid;
-    place-content: center;
-  }
-  
-  </style>
+grid-item#KVdrnhx {
+  display: grid;
+  place-content: center;
+  padding: 15%;
+  gap: 15px;
+  height: auto;
+  min-height: 50vh;
+}
+
+img#vUQWsBb {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+h2#LipvNin {
+  color: white;
+  font-size: clamp(24px, 3vw, 34px);
+  line-height: 1;
+}
+
+p#DbisMca {
+  color: white;
+  font-size: 14px;
+}
+
+#VCeLfhv {
+  display: flex;
+  gap: 10px;
+  flex-flow: wrap;
+}
+
+#VCeLfhv a {
+  border: 3px solid white;
+  padding: 0 15px;
+  color: white;
+  font-size: 14px;
+  border-radius: 10px;
+  text-underline-position: under;
+  height: 50px;
+  width: fit-content;
+  display: grid;
+  place-content: center;
+}
+</style>
       <style id="IjKAiSV" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
       <style id="GbrjtEv" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){}</style>
       
