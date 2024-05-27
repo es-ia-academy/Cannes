@@ -37,52 +37,54 @@ section {
   }
 }
 </style><grid-body id="grid-body">
-  <section id="PxcqbXl" data-type="section">
+  <section id="FQQVVpq" data-type="section">
       
       <!--CSS-->
-      <style id="qXSLJIT" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#LHViOwZ {
+      <style id="UfKGQCA" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#KSTYmzY {
     position: relative;
   }
 
-  grid-bg#JvvCYNY {
+  grid-bg#QQbTHJd {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-
-  div#VVqxpxp{
+  div#UnyECLu,
+  div#iqrCPfX,
+  div#pxLnrgd,
+  div#HhJlKmO{
     height:100%;
     width:100%;
-    display:grid;
-  }
-  div#AKlFark{
-    height:100%;
-    width:100%;
-    
   }
 
-  div#HzyaFUi{
+  div#awxYwrc{
     height:100%;
     width:100%;
     
   }
 
-  img#tIHrQoH {
+  div#AJVLEXX{
+    height:100%;
+    width:100%;
+    
+  }
+
+  img#vWqiGxa {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#MioFFCh {
+  video#bcYlfDk {
     object-fit:cover;
     height:100%;
     width:100%;
   }
   
-  grid-box#VxzbTPN{
+  grid-box#JLWTrpZ{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: auto;
@@ -90,7 +92,7 @@ section {
     height: 100%;
     place-content: center;
   }
-  grid-item#dzYgNTr{
+  grid-item#cVgOFfi{
     display: grid;
     place-content: center;
     padding: 15%;
@@ -99,28 +101,28 @@ section {
     min-height: 50vh;
   }
 
-  img#ZSPOBik{
+  img#RJVnhFb{
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  h2#gIqUkoK{
+  h2#LxlYLvl{
     color:white;
     font-size:clamp(24px,3vw,34px);
     line-height: 1;
   }
-  p#YhIykSH{
+  p#cDozhbI{
     color:white;
     font-size:14px;
   }
 
-  #SKFnJzo{
+  #XxhnhxA{
     display: flex;
     gap: 10px;
     flex-flow: wrap;
   }
 
-  #SKFnJzo a{
+  #XxhnhxA a{
     border: 3px solid white;
     padding: 0 15px;
     color: white;
@@ -134,52 +136,52 @@ section {
   }
   
   </style>
-      <style id="xrxhMce" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
-      <style id="fektrPY" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){}</style>
+      <style id="aohOOHZ" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+      <style id="elXSFKh" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){}</style>
       
       <!--HTML-->
-      <div id="WrnzqJi" data-type="html">
-        <grid-container id="UhCsLdq">
+      <div id="NSNkVvH" data-type="html">
+        <grid-container id="LZEghwe">
         
-        <grid-bg id="JvvCYNY" data-type="grid-bg">
+        <grid-bg id="QQbTHJd" data-type="grid-bg">
           <!-- bg-color -->
-          <div id="VVqxpxp" data-type="bg-color" class="div-visible">
-            <div id="JKgeafO" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 0);"></div>
-            <div id="WQksVia" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-            <div id="xwIjTUw" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+          <div id="UnyECLu" data-type="bg-color" class="div-visible">
+            <div id="iqrCPfX" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 0);"></div>
+            <div id="pxLnrgd" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+            <div id="HhJlKmO" data-type="linear-color" class="div-hidden" style="background: linear-gradient(246deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
           </div> 
           <!-- bg-image -->
-          <div id="AKlFark" data-type="bg-image" class="div-hidden">
-            <picture id="rweOBey">
+          <div id="awxYwrc" data-type="bg-image" class="div-hidden">
+            <picture id="WRAXlcF">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="tIHrQoH" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+              <img id="vWqiGxa" src="https://images.unsplash.com/photo-1714138664762-8ea7ae5c814e?ixid=M3wzOTcwOTd8MXwxfHNlYXJjaHw4fHxmb29kfGVufDB8MHx8fDE3MTY3MzcxMjB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
             </picture>
           </div> 
           <!-- bg-video -->
-          <div id="HzyaFUi" data-type="bg-video" class="div-hidden">
-            <video id="MioFFCh" autoplay="" loop="" muted="" loading="lazy">
-              <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          <div id="AJVLEXX" data-type="bg-video" class="div-hidden">
+            <video id="bcYlfDk" autoplay="" loop="" muted="" loading="lazy">
+              <source src="https://videos.pexels.com/video-files/854568/854568-sd_640_360_25fps.mp4" type="video/mp4">
             </video>
           </div> 
         </grid-bg>
 
-        <grid-box id="VxzbTPN">
+        <grid-box id="JLWTrpZ">
             
-            <grid-item id="dzYgNTr">
-                <h2 id="gIqUkoK" contenteditable="true">Lorem ipsum</h2>
-                <p id="YhIykSH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices vitae auctor eu augue. Donec ac odio tempor orci dapibus ultrices in iaculis nunc.</p>
-                <grid-box id="SKFnJzo">
-                  <grid-item id="tZGOyxa">
-        <a id="nHdasGE" href="#" contenteditable="true">Lorem ipsum</a>
-        <button class="no-export button-delete-item" onclick="deleteItem('tZGOyxa')"><img src="./assets/svg/icons/delete.svg"></button>
-    </grid-item><button id="iiygbLh" class="no-export grid-add-item" onclick="itemsButtons('SKFnJzo','iiygbLh')">+</button>
+            <grid-item id="cVgOFfi">
+                <h2 id="LxlYLvl" contenteditable="true">Lorem ipsum</h2>
+                <p id="cDozhbI" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nisi scelerisque eu ultrices vitae auctor eu augue. Donec ac odio tempor orci dapibus ultrices in iaculis nunc.</p>
+                <grid-box id="XxhnhxA">
+                  <grid-item id="UKWqSip">
+        <a id="SLcrAlX" href="#" contenteditable="true">Lorem ipsum</a>
+        <button class="no-export button-delete-item" onclick="deleteItem('UKWqSip')"><img src="./assets/svg/icons/delete.svg"></button>
+    </grid-item><button id="HzPlecs" class="no-export grid-add-item" onclick="itemsButtons('XxhnhxA','HzPlecs')">+</button>
                 </grid-box>
                 
             </grid-item>
 
-            <grid-item id="HTfFXDv">
-                <img id="ZSPOBik" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
+            <grid-item id="ltZFJjo">
+                <img id="RJVnhFb" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image-fg" loading="lazy">
             </grid-item>
 
           </grid-box>
@@ -187,7 +189,7 @@ section {
       </div>
       
       <!--JS-->
-      <script id="WZBJJRc" data-type="js"></script>
+      <script id="dWODdvy" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
